@@ -21,4 +21,5 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
     P=(km*0,21) - 40%)    
 5)else if età<=18
     P=(km*0,21) - 20%)    
+6)Pubblicazione risultato    
 
